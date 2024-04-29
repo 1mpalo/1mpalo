@@ -23,4 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1mpalo&show_icons=true&locale=en" alt="1mpalo" /></p>
 
-![github-contribution-grid-snake2](https://github.com/1mpalo/profile/assets/148369119/85b01f85-4834-46c0-8cdf-37abb34634a7)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+
+![github-contribution-grid-snake2](https://github.com/1mpalo/1mpalo/assets/148369119/238fd81c-284b-4ffc-b156-ddc3f1b2967f)
